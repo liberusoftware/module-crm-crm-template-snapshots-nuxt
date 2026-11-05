@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-crm-template-snapshots-nuxt",
+  "capabilityKey": "planned:crm:crm-template-snapshots",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-crm-crm-template-snapshots-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/crm/nextjs/crm-template-snapshots.md",
+  "presentationPlan": "projects/crm/nuxt/crm-template-snapshots.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
